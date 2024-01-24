@@ -1,5 +1,9 @@
 package org.example.lesson_1
 
 fun main() {
-    println("Hello Kotlin world")
+    val ordersQuality: Int = 42
+    val gratitudeMessage: String = "Примите благодарность за покупку! Вы сделали удачный выбор"
+
+    println(ordersQuality)
+    println(gratitudeMessage)
 }
